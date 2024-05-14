@@ -1,2 +1,2 @@
 # prune-library
-Delete media files that are not in a given text file
+Delete media files that are not listed in a given text file
